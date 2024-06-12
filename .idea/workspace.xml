@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dae0cc4-387e-4c3d-b03b-f631141d8c06" name="Changes" comment="Literals and operators">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task2.py" afterDir="false" />
+    <list default="true" id="9dae0cc4-387e-4c3d-b03b-f631141d8c06" name="Changes" comment="Task1 and Task2">
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +96,15 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -143,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718129882119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task1 and Task2">
+      <option name="closed" value="true" />
+      <created>1718161747126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718161747126</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,7 +176,8 @@
     <MESSAGE value="Variables and Datatypes" />
     <MESSAGE value="Datatypes,List" />
     <MESSAGE value="Literals and operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Literals and operators" />
+    <MESSAGE value="Task1 and Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1 and Task2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
