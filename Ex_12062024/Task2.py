@@ -1,6 +1,6 @@
 # Program to check given year is leap year or not
 leap_year = 2024
-if leap_year%4 == 0 or leap_year%400 == 0:
+if leap_year%4 == 0 and leap_year%100 != 0 or leap_year%400 == 0:
     print("Leap year")
 else:
     print("Not a leap year")
