@@ -1,0 +1,12 @@
+def greet():
+    print("Code to be executed ")
+    print("Second line of code")
+    print("Third line of code")
+    print('\n')
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
