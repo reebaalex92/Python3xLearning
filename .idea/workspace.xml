@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dae0cc4-387e-4c3d-b03b-f631141d8c06" name="Changes" comment="Task">
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab110.py" afterDir="false" />
+    <list default="true" id="9dae0cc4-387e-4c3d-b03b-f631141d8c06" name="Changes" comment="Recursion">
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab121.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,14 +162,28 @@
     "Python.Lab108.executor": "Run",
     "Python.Lab109.executor": "Run",
     "Python.Lab110.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
+    "Python.Lab121.executor": "Run",
     "Python.Task.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/91954/PycharmProjects/Python3xLearning/Ex_26062024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91954\PycharmProjects\Python3xLearning\Ex_26062024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3xLearning" />
@@ -332,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719240895904</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Recursion">
+      <option name="closed" value="true" />
+      <created>1719412749222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719412749222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -347,7 +371,8 @@
     <MESSAGE value="Scope of functions" />
     <MESSAGE value="Dictionary,Decorators" />
     <MESSAGE value="Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task" />
+    <MESSAGE value="Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
