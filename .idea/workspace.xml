@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dae0cc4-387e-4c3d-b03b-f631141d8c06" name="Changes" comment="Recursion">
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab132.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,17 +171,27 @@
     "Python.Lab119.executor": "Run",
     "Python.Lab120.executor": "Run",
     "Python.Lab121.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
+    "Python.Lab130.executor": "Run",
+    "Python.Lab131.executor": "Run",
+    "Python.Lab132.executor": "Run",
     "Python.Task.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/91954/PycharmProjects/Python3xLearning/Ex_26062024",
+    "last_opened_file_path": "C:/Users/91954/PycharmProjects/Python3xLearning/Ex_28062024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91954\PycharmProjects\Python3xLearning\Ex_28062024" />
       <recent name="C:\Users\91954\PycharmProjects\Python3xLearning\Ex_26062024" />
     </key>
   </component>
@@ -356,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719412749222</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Recursion">
+      <option name="closed" value="true" />
+      <created>1719500448395</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719500448395</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
