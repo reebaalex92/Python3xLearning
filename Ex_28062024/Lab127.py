@@ -3,8 +3,8 @@ class Car:
 
     def __init__(self):
         public_var = "Public"  # Public variable
-        _protected_var = "Protected"  # Protected variable
-        __private_var = "pass@123"  # Private variable
+        self._protected_var = "Protected"  # Protected variable
+        self.__private_var = "pass@123"  # Private variable
 
     def __private_method(self):
         print("This is a protected method")
